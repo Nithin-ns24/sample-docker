@@ -12,7 +12,7 @@ RUN apt-get upgrade -y
 
 RUN apt-get install -y git
 
-RUN git clone https://github.com/Nithin-optit/play-1.git
+RUN git clone https://github.com/Nithin-optit/sample-docker.git
 
 RUN apt install -y mvn
 
